@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+
+.links a {
+  color: white;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.App {
+  padding: 20px;
+}
